@@ -20,7 +20,13 @@
     text-align: center;
     animation: glow 1.5s ease-in-out infinite;
 }
-
+.diseño{
+    font-size: 8px;
+    font-weight: bold;
+    color: #ff6f61;
+    text-align: center;
+    animation: glow 1.5s ease-in-out infinite;
+}
 
 * {
     margin: 0;
